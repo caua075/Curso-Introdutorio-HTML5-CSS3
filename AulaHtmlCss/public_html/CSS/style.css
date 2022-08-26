@@ -1,0 +1,36 @@
+body{
+    background-color: #B0C4DE;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1{
+    color: #1C1C1C;
+    font-family: initial;
+}
+
+h2{
+    color: #363636;
+    font-family: initial;
+}
+
+p{
+    font-size: 20px;
+}
+
+.imgPadrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.imgContato{
+    width: 30px;
+}
